@@ -54,10 +54,16 @@ let allMusic = [
     img: "music-8",
     src: "music-8"
   },
-        {
+    {
     name: "ရက်စက်လိုက်တာ",
     artist: "ထူးအိမ်သင်",
     img: "music-9",
     src: "music-9"
+  },
+     {
+    name: "ဗဒင်",
+    artist: "အဟောင်းဆိုင်",
+    img: "music-10",
+    src: "music-10"
   },
 ];
