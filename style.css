@@ -54,6 +54,7 @@ body{
   font-size: 18px;
   margin-left: -3px;
   color: var(--lightblack);
+  margin-right: 95px;
 }
 .img-area{
   width: 100%;
