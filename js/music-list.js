@@ -66,4 +66,10 @@ let allMusic = [
     img: "music-10",
     src: "music-10"
   },
+      {
+    name: "ပေါ်တော်မူ💔",
+    artist: "Derek Millar",
+    img: "music-11",
+    src: "music-11"
+  },
 ];
